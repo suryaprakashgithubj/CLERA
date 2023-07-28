@@ -1,0 +1,18 @@
+/* FeedbackForm.css */
+
+.feedback-form {
+    display: grid;
+    
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .input-field {
+    margin-bottom: 10px;
+  }
+  

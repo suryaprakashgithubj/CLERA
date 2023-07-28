@@ -1,0 +1,16 @@
+.img
+{
+    width: 50%;
+   }
+.det
+{
+    width: 50%;
+    font-family: sans-serif;
+}
+.live
+{
+    display: flex;
+  justify-content: center; 
+  width: 100%;
+  flex-direction: row;
+}
